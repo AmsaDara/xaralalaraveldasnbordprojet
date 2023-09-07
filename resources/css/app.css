@@ -1,0 +1,10 @@
+
+@import "~admin-lte/plugins/fontawesome-free/css/all.css";
+@import "~admin-lte/dist/css/adminlte.css";
+@import "~admin-lte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.css";
+@import "~admin-lte/plugins/icheck-bootstrap/icheck-bootstrap.css";
+@import "~admin-lte/plugins/jqvmap/jqvmap.css";
+@import "~admin-lte/plugins/overlayScrollbars/css/OverlayScrollbars.css";
+@import "~admin-lte/plugins/daterangepicker/daterangepicker.css";
+
+@import "~admin-lte/plugins/summernote/summernote-bs4.min.css";
